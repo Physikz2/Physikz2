@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 ---
 
 ### 🛠️ Tech Stack
-### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)

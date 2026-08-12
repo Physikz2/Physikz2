@@ -20,7 +20,7 @@
 
 ### Reaction Clicker Game - test your reflexes and eye hand coordination  👉 [Balloon Clicker Game](https://physikz2.github.io/Reaction-Clicker-Game/)
 
-### Kevins Fun General Knowledge Quiz - 2023  👉 [World Data Visualizer Heatmap](https://video.pictory.ai/1677213538776/202302250037091964BJCQVNJaOiQp8i)
+### Kevins Fun General Knowledge Quiz - 2023  👉 [General Knowledge Quiz](https://video.pictory.ai/1677213538776/202302250037091964BJCQVNJaOiQp8i)
 
 
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡

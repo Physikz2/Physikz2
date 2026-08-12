@@ -3,27 +3,26 @@
 
 ## Hi there, I'm Kevin! 👋
 
-## 🎓 Bachelors of Applied Science - Computer Engineering @ University of Toronto - 2004  
+### 🎓 Bachelors of Applied Science - Computer Engineering @ University of Toronto - 2004  
 
 
-## QUICK LINKS TO PROJECTS - LIVE LINKS!!!!
-
+### QUICK LINKS TO PROJECTS - LIVE LINKS!!!!
 
 #### Kevins Interactive Bookshelf  👉 [Interacitve Bookshelf of Human Mastery - 50 Profiles of Human Excellence](https://ais-pre-qyd2tagr7jvryy2sgaz6ji-310529777293.us-east1.run.app/?bookId=45xwurvw)
 
 #### KAI (Kevin's AI) Trading Dashboard  👉 [KAI Trader Dashboard](https://ais-pre-jcp2d7lflx7xbqhiaw3rpc-310529777293.us-east1.run.app)
 
-### World Data Visualizer - Population, GDP, Life Expectancy  👉 [World Data Visualizer Heatmap](https://world-data-visualizer.onrender.com)
+#### World Data Visualizer - Population, GDP, Life Expectancy  👉 [World Data Visualizer Heatmap](https://world-data-visualizer.onrender.com)
 
-### Ascii Art Generator - upload any image and generate it in ASCII Art  👉 [Ascii Art Generator](https://physikz2.github.io/Ascii_ArtGenerator/)
+#### Ascii Art Generator - upload any image and generate it in ASCII Art  👉 [Ascii Art Generator](https://physikz2.github.io/Ascii_ArtGenerator/)
 
-### Reaction Clicker Game - test your reflexes and eye hand coordination  👉 [Balloon Clicker Game](https://physikz2.github.io/Reaction-Clicker-Game/)
+#### Reaction Clicker Game - test your reflexes and eye hand coordination  👉 [Balloon Clicker Game](https://physikz2.github.io/Reaction-Clicker-Game/)
 
-### Kevins Fun General Knowledge Quiz - 2023  👉 [General Knowledge Quiz](https://video.pictory.ai/1677213538776/202302250037091964BJCQVNJaOiQp8i)
+#### Kevins Fun General Knowledge Quiz - 2023  👉 [General Knowledge Quiz](https://video.pictory.ai/1677213538776/202302250037091964BJCQVNJaOiQp8i)
 
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
-### Source Code for other projects as well 👉 [Crypto Trading RAG Pipeline - using LangChain](https://github.com/Physikz2/RAG_CryptoTrading_Langchain))
+#### Source Code for other projects as well 👉 [Crypto Trading RAG Pipeline - using LangChain](https://github.com/Physikz2/RAG_CryptoTrading_Langchain))
 
 <!--
 **Physikz2/Physikz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

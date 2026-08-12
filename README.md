@@ -6,7 +6,7 @@
 ### 🎓 Bachelors of Applied Science - Computer Engineering @ University of Toronto - 2004  
 
 
-### QUICK LINKS TO PROJECTS - LIVE LINKS!!!!
+### 🚀🚀🚀 Quick Live Links to Projects Below !!! 🚀🚀🚀
 
 #### Kevins Interactive Bookshelf  👉 [Interacitve Bookshelf of Human Mastery - 50 Profiles of Human Excellence](https://ais-pre-qyd2tagr7jvryy2sgaz6ji-310529777293.us-east1.run.app/?bookId=45xwurvw)
 

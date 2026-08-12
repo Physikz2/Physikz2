@@ -7,6 +7,34 @@
 💻 TO DO>>>
 
 
+### QUICK LINKS TO PROJECTS - LIVE LINKS!!!!
+
+
+### Kevins Interactive Bookshelf
+👉 [Interacitve Bookshelf of Human Mastery - 50 Profiles of Human Excellence](https://ais-pre-qyd2tagr7jvryy2sgaz6ji-310529777293.us-east1.run.app/?bookId=45xwurvw)
+
+### KAI (Kevin's AI) Trading Dashboard
+👉 [KAI Trader Dashboard](https://ais-pre-jcp2d7lflx7xbqhiaw3rpc-310529777293.us-east1.run.app)
+
+### World Data Visualizer - Population, GDP, Life Expectancy
+👉 [World Data Visualizer Heatmap](https://world-data-visualizer.onrender.com)
+
+### Reaction Clicker Game - test your reflexes and eye hand coordination
+👉 [Balloon Clicker Game](https://physikz2.github.io/Reaction-Clicker-Game/)
+
+### Ascii Art Generator - upload any image and generate it in ASCII Art
+👉 [Ascii Art Generator](https://physikz2.github.io/Ascii_ArtGenerator/)
+
+### Kevins Fun General Knowledge Quiz - 2023
+👉 [World Data Visualizer Heatmap](https://video.pictory.ai/1677213538776/202302250037091964BJCQVNJaOiQp8i)
+
+
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+## Source Code for other projects as well
+👉 [Crypto Trading RAG Pipeline - using LangChain](https://github.com/Physikz2/RAG_CryptoTrading_Langchain))
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+
+
 <!--
 **Physikz2/Physikz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,7 +62,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on: [Your current project]  
 - 🌱 I’m currently learning: [Constatly brushing up on computer skills to keep up with emerging technology that never stops]  
 - 👯 I’m looking to collaborate on: [Open source]  
-- 🤔 I’m looking for help with: [Something you want help with]  
 - 💬 Ask me about: [Trading Cryptocurrency Perpetuals and What NOT TO DO, Python, JavaScript, Web Development]  
 
 ---

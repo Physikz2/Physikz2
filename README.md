@@ -25,11 +25,7 @@
 
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
-## Source Code for other projects as well
-👉 [Crypto Trading RAG Pipeline - using LangChain](https://github.com/Physikz2/RAG_CryptoTrading_Langchain))
-
-⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
-
+## Source Code for other projects as well 👉 [Crypto Trading RAG Pipeline - using LangChain](https://github.com/Physikz2/RAG_CryptoTrading_Langchain))
 
 <!--
 **Physikz2/Physikz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,8 +44,7 @@ Here are some ideas to get you started:
 
 ---
 
-**🔗 Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-tamkei)  
+**🔗 Connect with me:**   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-tamkei)  
 
 ---
 

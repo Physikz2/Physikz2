@@ -22,7 +22,7 @@
 
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
-#### Source Code for other projects as well 👉 [Crypto Trading RAG Pipeline - using LangChain](https://github.com/Physikz2/RAG_CryptoTrading_Langchain))
+#### Source Code for other projects as well 👉 [Crypto Trading RAG Pipeline - using LangChain](https://github.com/Physikz2/RAG_CryptoTrading_Langchain)
 
 <!--
 **Physikz2/Physikz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: [Your current project]  
+- 🔭 I’m currently working on: [Numerous projects concurrently]  
 - 🌱 I’m currently learning: [Constatly brushing up on computer skills to keep up with emerging technology that never stops]  
 - 👯 I’m looking to collaborate on: [Open source]  
 - 💬 Ask me about: [Trading Cryptocurrency Perpetuals and What NOT TO DO, Python, JavaScript, Web Development]  

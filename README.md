@@ -24,6 +24,9 @@
 
 #### Source Code for other projects as well 👉 [Crypto Trading RAG Pipeline - using Playwright and LangChain](https://github.com/Physikz2/RAG_CryptoTrading_Langchain)
 
+#### Please feel free to check my repsoitories for additional source code of other projects
+
+
 <!--
 **Physikz2/Physikz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -20,6 +20,8 @@
 
 #### Kevins Fun General Knowledge Quiz - 2023  👉 [General Knowledge Quiz](https://video.pictory.ai/1677213538776/202302250037091964BJCQVNJaOiQp8i)
 
+#### Health Care AI - QA Command Centre Dashboard  👉 [Health Care AI - QA Command Centre Dashboard](https://healthcare-ai-testingcommandcenter.streamlit.app)
+
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
 #### Source Code for other projects as well 👉 [Crypto Trading RAG Pipeline - using Playwright and LangChain](https://github.com/Physikz2/RAG_CryptoTrading_Langchain)

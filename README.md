@@ -26,7 +26,7 @@
 
 #### 🛠️ Source Code for other projects as well 👉 [Crypto Trading RAG Pipeline - using Playwright and LangChain](https://github.com/Physikz2/RAG_CryptoTrading_Langchain)
 
-#### Please feel free to check my repsoitories for additional source code of other projects
+#### Please feel free to check my repsoitories for additional source code of other projects  👉 [GitHub Repositories](https://github.com/Physikz2?tab=repositories)
 
 <!-- 👉 [Health Care AI - QA Command Centre Dashboard - Streamlit](https://healthcare-ai-testingcommandcenter.streamlit.app/) -->
 <!--

@@ -1,6 +1,3 @@
-
-<img src="profile.png" width="150" align="left" />
-
 ## Hi there, I'm Kevin! 👋
 
 ### 🎓 Bachelors of Applied Science - Computer Engineering @ University of Toronto - 2004  

@@ -8,26 +8,26 @@
 
 ### 🚀🚀🚀 Quick Live Links to Projects Below !!! 🚀🚀🚀
 
-#### Kevins Interactive Bookshelf  👉 [Interactive Bookshelf of Human Mastery - 50 Profiles of Human Excellence](https://ais-pre-qyd2tagr7jvryy2sgaz6ji-310529777293.us-east1.run.app/?bookId=45xwurvw)
+#### 🌐📚 Kevins Interactive Bookshelf  👉 [Interactive Bookshelf of Human Mastery - 50 Profiles of Human Excellence](https://ais-pre-qyd2tagr7jvryy2sgaz6ji-310529777293.us-east1.run.app/?bookId=45xwurvw)
 
-#### KAI (Kevin's AI) Trading Dashboard  👉 [KAI Trader Dashboard](https://ais-pre-jcp2d7lflx7xbqhiaw3rpc-310529777293.us-east1.run.app)
+#### 🌐🖥️ KAI (Kevin's AI) Trading Dashboard  👉 [KAI Trader Dashboard](https://ais-pre-jcp2d7lflx7xbqhiaw3rpc-310529777293.us-east1.run.app)
 
-#### World Data Visualizer - Population, GDP, Life Expectancy  👉 [World Data Visualizer Heatmap](https://world-data-visualizer.onrender.com)
+#### 🌐 World Data Visualizer - Population, GDP, Life Expectancy  👉 [World Data Visualizer Heatmap](https://world-data-visualizer.onrender.com)
 
-#### Ascii Art Generator - upload any image and generate it in ASCII Art  👉 [Ascii Art Generator](https://physikz2.github.io/Ascii_ArtGenerator/)
+#### 🌐🎨 Ascii Art Generator - upload any image and generate it in ASCII Art  👉 [Ascii Art Generator](https://physikz2.github.io/Ascii_ArtGenerator/)
 
-#### RAG Document QA Full Stack  👉 [RAG Document QA Frontend](https://physikz2.github.io/RAG-Document-QA/)      👉 [RAG Document QA Backend API](https://rag-document-qa-ty6i.onrender.com/)
+#### 🌐📊 RAG Document QA Full Stack  👉 [RAG Document QA Frontend](https://physikz2.github.io/RAG-Document-QA/)      👉 [RAG Document QA Backend API](https://rag-document-qa-ty6i.onrender.com/)
                                 
-#### Health Care AI - QA Command Centre Dashboard  👉 [Health Care AI - QA Command Centre Dashboard - Render](https://healthcare-qacommandcenter.onrender.com/)
+#### 🌐🧪 Health Care AI - QA Command Centre Dashboard  👉 [Health Care AI - QA Command Centre Dashboard - Render](https://healthcare-qacommandcenter.onrender.com/)
 
-#### Reaction Clicker Game - test your reflexes and eye hand coordination  👉 [Balloon Clicker Game](https://physikz2.github.io/Reaction-Clicker-Game/)
+#### 🚀 Reaction Clicker Game - test your reflexes and eye hand coordination  👉 [Balloon Clicker Game](https://physikz2.github.io/Reaction-Clicker-Game/)
 
-#### Kevins Fun General Knowledge Quiz - 2023  👉 [General Knowledge Quiz](https://video.pictory.ai/1677213538776/202302250037091964BJCQVNJaOiQp8i)
+#### 🎬 Kevins Fun General Knowledge Quiz - 2023  👉 [General Knowledge Quiz](https://video.pictory.ai/1677213538776/202302250037091964BJCQVNJaOiQp8i)
 
 
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
-#### Source Code for other projects as well 👉 [Crypto Trading RAG Pipeline - using Playwright and LangChain](https://github.com/Physikz2/RAG_CryptoTrading_Langchain)
+#### 🛠️ Source Code for other projects as well 👉 [Crypto Trading RAG Pipeline - using Playwright and LangChain](https://github.com/Physikz2/RAG_CryptoTrading_Langchain)
 
 #### Please feel free to check my repsoitories for additional source code of other projects
 

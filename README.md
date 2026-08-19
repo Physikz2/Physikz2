@@ -8,7 +8,7 @@
 
 ### 🚀🚀🚀 Quick Live Links to Projects Below !!! 🚀🚀🚀
 
-#### 🌐📚 Kevins Interactive Bookshelf  👉 [Interactive Bookshelf of Human Mastery - 50 Profiles of Human Excellence](https://ais-pre-qyd2tagr7jvryy2sgaz6ji-310529777293.us-east1.run.app/?bookId=45xwurvw)
+#### 📚🌐 Kevins Interactive Bookshelf  👉 [Interactive Bookshelf of Human Mastery - 50 Profiles of Human Excellence](https://ais-pre-qyd2tagr7jvryy2sgaz6ji-310529777293.us-east1.run.app/?bookId=45xwurvw)
 
 #### 🌐📈 KAI (Kevin's AI) Trading Dashboard  👉 [KAI Trader Dashboard](https://ais-pre-jcp2d7lflx7xbqhiaw3rpc-310529777293.us-east1.run.app)
 

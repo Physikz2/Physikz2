@@ -4,7 +4,7 @@
 
 
 ### 🚀🚀🚀 Quick Live Links to Projects Below !!! 🚀🚀🚀
-⚠️ **Render Status**: Before checking my live demos (any `.onrender.com` URL), please verify Render's services are operational: [https://status.render.com](https://status.render.com)
+⚠️ **Render Status**: Before checking my live demos (any `.onrender.com` URL), please verify Render's services are operational: check [status.render.com](https://status.render.com "noreferrer") first.
 
 #### 🌐📚 Kevins Interactive Bookshelf  👉 [Interactive Bookshelf of Human Mastery - 50 Profiles of Human Excellence](https://ais-pre-qyd2tagr7jvryy2sgaz6ji-310529777293.us-east1.run.app/?bookId=45xwurvw)
 

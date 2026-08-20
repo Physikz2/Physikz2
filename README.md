@@ -13,7 +13,8 @@
 
 #### 🌐🎨 Ascii Art Generator - upload any image and generate it in ASCII Art  👉 [Ascii Art Generator](https://physikz2.github.io/Ascii_ArtGenerator/)
 
-#### 🌐🕵️ RAG Document QA Full Stack  👉 [RAG Document QA Frontend](https://physikz2.github.io/RAG-Document-QA/)      👉 [RAG Document QA Backend API](https://rag-document-qa-ty6i.onrender.com/)
+#### 🌐🕵️ RAG Document QA Full Stack - First start the backend on Render 👉 [RAG Document QA Backend API](https://rag-document-qa-ty6i.onrender.com/)
+#### Then can properly test out the frontend 🌐👉 [RAG Document QA Frontend](https://physikz2.github.io/RAG-Document-QA/)
                                 
 #### 🌐🩺 Health Care AI - QA Command Centre Dashboard  👉 [Health Care AI - QA Command Centre Dashboard - Render](https://healthcare-qacommandcenter.onrender.com/)
 

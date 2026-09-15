@@ -19,9 +19,12 @@
                                 
 #### 🌐🩺 Health Care AI - QA Command Centre Dashboard  👉 [Health Care AI - QA Command Centre Dashboard - Render](https://healthcare-qacommandcenter.onrender.com/)
 
+#### 🌐🩺 AuraWave Pro™: The Quantum Cellular Bio-Resonance & Regeneration Healing Machine 👉 [AuraWave Healing Machine](https://clever-licorice-09b1d9.netlify.app/)
+
 #### 🌐🚀🎮 Reaction Clicker Game - test your reflexes and eye hand coordination  👉 [Balloon Clicker Game](https://physikz2.github.io/Reaction-Clicker-Game/)
 
 #### 🌐🎬 Kevins Fun General Knowledge Quiz - 2023  👉 [General Knowledge Quiz](https://video.pictory.ai/1677213538776/202302250037091964BJCQVNJaOiQp8i)
+
 
 
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡

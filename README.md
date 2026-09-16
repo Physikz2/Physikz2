@@ -27,6 +27,27 @@
 
 
 
+<table>
+<tr>
+<td width="80%">
+
+### 🎥 AI Financial Chatbot | Take-Home Challenge Demo
+
+Click the thumbnail to watch a walkthrough of the Python backend and the mobile-style chat interface I built for a coding assessment.
+
+</td>
+<td width="20%">
+  
+<a href="https://github.com/user-attachments/assets/1c75ea1b-b270-4c03-af3f-2475d2d9e400">
+  <img src="https://github.com/user-attachments/assets/3a5f6791-6e95-4681-9355-93d5508ec632" width="50" alt="Watch the Demo" />
+</a>
+
+</td>
+</tr>
+</table>
+
+
+
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
 #### 🛠️ Source Code for other projects as well 👉 [Crypto Trading RAG Pipeline - using Playwright and LangChain](https://github.com/Physikz2/RAG_CryptoTrading_Langchain)

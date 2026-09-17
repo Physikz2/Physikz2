@@ -2,6 +2,15 @@
 
 ### 🎓 Bachelors of Applied Science - Computer Engineering @ University of Toronto - 2004  
 
+---
+
+### 🌐 Explore My Live Portfolio
+
+Welcome to my interactive digital workspace! Built with modern full-stack architecture using React, TypeScript, Vite, and Tailwind CSS, my portfolio showcases 15+ years of enterprise engineering experience, multi-agent AI systems, automated crypto trading RAG pipelines, and interactive web tools. It also features verified academic credentials, comprehensive career milestones, and my latest project deployments.
+
+👉 **[Check out the Live Kevin Tamkei Portfolio Website](https://kevintamkei-portfolio.netlify.app/)**
+
+---
 
 ### 🚀🚀🚀 Quick Live Links to Projects Below !!! 🚀🚀🚀
 ⚠️ ** Before checking my live demos (any `.onrender.com` URL), please [![Render Status](https://img.shields.io/badge/Check%20Render%20Status-46E3B7?style=for-the-badge&logo=render)](https://status.render.com)

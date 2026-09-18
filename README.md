@@ -6,7 +6,7 @@
 
 ### 🌐 Explore My Live Portfolio
 
-Welcome to my interactive digital workspace! Built with modern full-stack architecture using React, TypeScript, Vite, and Tailwind CSS, my portfolio showcases 15+ years of enterprise engineering experience, multi-agent AI systems, automated crypto trading RAG pipelines, and interactive web tools. It also features verified academic credentials, comprehensive career milestones, and my latest project deployments.
+Welcome to my interactive digital workspace! Built with modern full-stack architecture using React, TypeScript, Vite, and Tailwind CSS, my portfolio showcases 15+ years of enterprise engineering experience. It also features verified academic credentials, comprehensive career milestones, and my latest project deployments.
 
 👉 **[Check out the Live Kevin Tamkei Portfolio Website](https://kevintamkei-portfolio.netlify.app/)**  <a href="https://kevintamkei-portfolio.netlify.app/"><img width="200" height="100" alt="KevinTamkeiPortfolio" src="https://github.com/user-attachments/assets/100d1553-72b9-4fe7-9ec2-1e630ccc2ecf" /></a>
 

@@ -6,7 +6,7 @@
 
 ### 🌐 Explore My Live Portfolio
 
-Welcome to my interactive digital workspace! Built with modern full-stack architecture using React, TypeScript, Vite, and Tailwind CSS, my portfolio showcases 15+ years of enterprise engineering experience. It also features verified academic credentials, comprehensive career milestones, and my latest project deployments.
+Welcome to my interactive digital workspace! Built with modern full-stack architecture using React, TypeScript, Vite, and Tailwind CSS.  My portfolio showcases 15+ years of enterprise engineering experience. It also features verified academic credentials and latest project deployments.
 
 👉 **[Check out the Live Kevin Tamkei Portfolio Website](https://kevintamkei-portfolio.netlify.app/)**  <a href="https://kevintamkei-portfolio.netlify.app/"><img width="200" height="100" alt="KevinTamkeiPortfolio" src="https://github.com/user-attachments/assets/100d1553-72b9-4fe7-9ec2-1e630ccc2ecf" /></a>
 
@@ -17,6 +17,8 @@ Welcome to my interactive digital workspace! Built with modern full-stack archit
 ⚠️ ** Before checking my live demos (any `.onrender.com` URL), please [![Render Status](https://img.shields.io/badge/Check%20Render%20Status-46E3B7?style=for-the-badge&logo=render)](https://status.render.com)
 
 #### 🌐📚 Kevins Interactive Bookshelf  👉 [Interactive Bookshelf of Human Mastery - 50 Profiles of Human Excellence](https://ais-pre-qyd2tagr7jvryy2sgaz6ji-310529777293.us-east1.run.app/?bookId=45xwurvw)
+
+#### ❄️🚜 Kevins Snow Removal Platform  👉 [Snow Removal Platform](https://ais-pre-f65y4xkanqcjct3kn4fec7-517256373109.us-east1.run.app)
 
 #### 🌐📈 KAI (Kevin's AI) Trading Dashboard  👉 [KAI Trader Dashboard](https://ais-pre-jcp2d7lflx7xbqhiaw3rpc-310529777293.us-east1.run.app)
 

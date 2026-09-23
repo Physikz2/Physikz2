@@ -15,7 +15,6 @@ Welcome to my interactive digital workspace! Built with modern full-stack archit
 
 
 👉 **[Play Virus Evasion](https://virus-evasion.vercel.app/)** <a href="https://virus-evasion.vercel.app/"><img width="200" height="100" alt="VirusEvasion" src="https://github.com/user-attachments/assets/1155a9cd-168e-41cf-b895-0f10efcd452a" /></a>
-<img width="200" height="100" alt="VirusEvasionGameplay" src="https://github.com/user-attachments/assets/893b6b1c-e5ba-4d33-a2b7-bda5f0cb299b" />
 🎮 Play Virus Evasion — Live on Vercel
 Step into the grid. A reverse-snake cyberpunk survival game built with React, TypeScript, HTML5 Canvas, and Supabase. Dodge autonomously wandering virus blocks, climb the global leaderboard, and etch your handle into the Hall of Fame Top 10.
 

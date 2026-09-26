@@ -37,7 +37,7 @@ Step into the grid. A reverse-snake cyberpunk survival game built with React, Ty
 #### Then can properly test out the frontend 🌐👉 [RAG Document QA Frontend](https://physikz2.github.io/RAG-Document-QA/)
                                 
 #### 🌐🩺 Health Care AI - QA Command Centre Dashboard  👉 [Health Care AI - QA Command Centre Dashboard - Render](https://healthcare-qacommandcenter.onrender.com/)
-#### Working on extended version 2 see the repository  👉 [Health Care AI - QA Agents - version 2](https://github.com/Physikz2/Healthcare-QA-Agents-v2/)
+#### Working on extended version 2 (not yet deployed) but see the repository  👉 [Health Care AI - QA Agents - version 2](https://github.com/Physikz2/Healthcare-QA-Agents-v2/)
 
 #### 🌐🩺 AuraWave Pro™: The Quantum Cellular Bio-Resonance & Regeneration Healing Machine 👉 [AuraWave Healing Machine](https://clever-licorice-09b1d9.netlify.app/)
 
